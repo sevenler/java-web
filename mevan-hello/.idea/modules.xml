@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/mevan-hello.iml" filepath="$PROJECT_DIR$/mevan-hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mevan-hello0/mevan-hello0.iml" filepath="$PROJECT_DIR$/../mevan-hello0/mevan-hello0.iml" />
     </modules>
   </component>
 </project>

@@ -5,22 +5,19 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.ujipin</groupId>
-    <artifactId>mevan-hello</artifactId>
+    <artifactId>mevan-hello0</artifactId>
     <version>1.0-SNAPSHOT</version>
-
-    <!--如果需要执行mvn install 安装modele的时候,需要将pckaging设置成这个值-->
-    <!--如果设置成这个值过后,mvn compile, mvn test 将无效-->
-    <packaging>pom</packaging>
 
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>4.11</version>
-            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.ujipin</groupId>
+            <artifactId>mevan-hello</artifactId>
+            <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
-
-
-
 </project>
