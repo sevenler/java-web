@@ -23,6 +23,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="dubbo-demo-api" />
+        <module name="dubbo-demo-core" />
         <module name="mevan-hello0" />
       </profile>
     </annotationProcessing>

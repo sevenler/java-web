@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../dubbo-demo/dubbo-demo.iml" filepath="$PROJECT_DIR$/../dubbo-demo/dubbo-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dubbo-demo/dubbo-demo-api/dubbo-demo-api.iml" filepath="$PROJECT_DIR$/../dubbo-demo/dubbo-demo-api/dubbo-demo-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dubbo-demo/dubbo-demo-core/dubbo-demo-core.iml" filepath="$PROJECT_DIR$/../dubbo-demo/dubbo-demo-core/dubbo-demo-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/mevan-hello.iml" filepath="$PROJECT_DIR$/mevan-hello.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mevan-hello0/mevan-hello0.iml" filepath="$PROJECT_DIR$/../mevan-hello0/mevan-hello0.iml" />
     </modules>
