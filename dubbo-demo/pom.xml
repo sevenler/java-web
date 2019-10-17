@@ -18,7 +18,7 @@
 
       <dubbo_version>2.5.3</dubbo_version>
       <zookeeper_version>3.3.3</zookeeper_version>
-      <spring.version>3.1.2.RELEASE</spring.version>
+      <spring.version>5.2.0.RELEASE</spring.version>
       <zkclient_version>0.1</zkclient_version>
   </properties>
 
