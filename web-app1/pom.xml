@@ -35,7 +35,7 @@
     <tomcat.version>2.2</tomcat.version>
     <webserver.port>8181</webserver.port>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <spring-mvc-version>4.1.1.RELEASE</spring-mvc-version>
+    <spring-mvc-version>5.3.18</spring-mvc-version>
     <jetty.version>8.1.5.v20120716</jetty.version>
     <jetty.jsp.version>8.1.4.v20120524</jetty.jsp.version>
   </properties>
